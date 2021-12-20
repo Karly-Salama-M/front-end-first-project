@@ -1,4 +1,4 @@
-# SASS UI Project
+# SAAS UI Project
 
 Building in html and css: desktop view and mobile view from design mockups
 
