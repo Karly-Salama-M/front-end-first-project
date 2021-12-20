@@ -1,10 +1,6 @@
-# Stock Exchange Project
+# SASS UI Project
 
-Multipage stock exchange data website. This project is based on Financial Modeling Prep - [FinancialModelingPrep](https://site.financialmodelingprep.com/)
-
-In this project we used a custom server for communicating with the API.
-
-All the information changes dinamically.
+Building in html and css: desktop view and mobile view from design mockups
 
 ## Table of contents
 
@@ -13,7 +9,6 @@ All the information changes dinamically.
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -23,41 +18,29 @@ All the information changes dinamically.
 Users should be able to:
 
 - View the optimal layout on Desktop and Mobile
-- Search for any company
-- See the company's profile with the company:
-     image, name, stock price, link to their official web, description, and data from the stock price history in a chart. 
-- See hover states for interactive elements
 
 ### Screenshot
 
-![](https://github.com/Karly-Salama-M/stock-exchange-project/blob/main/img/mobile_view.jpg)
+![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/Front-End-August.gif)
 
-![](https://github.com/Karly-Salama-M/stock-exchange-project/blob/main/img/home_desktop_view.png)
+test
 
-![](https://github.com/Karly-Salama-M/stock-exchange-project/blob/main/img/profile_desktop_view.png)
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="mobile view screenshot"/>
+</p>
 
 
 ### Links
 
-- Live Site URL: [Stock Exchange Project](https://pensive-newton-394f3d.netlify.app/)
-- Check out my code: [Code Source](https://github.com/Karly-Salama-M/stock-exchange-project)
+- Live Site URL: [Stock Exchange Project](https://pedantic-lalande-7ceb40.netlify.app/)
+- Check out [my code](https://github.com/Karly-Salama-M/stock-exchange-project)
 
 ### Built with
 
 - HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS animation
 - Mobile-first workflow
-
-### What I learned
-
-It was a challenging project. 
-
-Learned how to: 
-- Use Fetch
-- Display loading animation on Fetch API calls [Reference](https://dev.to/vaishnavme/displaying-loading-animation-on-fetch-api-calls-1e5m)
-- Use [Chart.js](https://www.chartjs.org/) to present data in a chart. 
  
 ## Author
 
