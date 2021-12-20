@@ -29,7 +29,7 @@ Users should be able to:
 &nbsp;
 &nbsp;
 
-![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/front_end_mobile.gif)\
+![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/front_end_mobile.gif)
 
 
 ### Links
