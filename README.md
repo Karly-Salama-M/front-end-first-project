@@ -23,7 +23,11 @@ Users should be able to:
 
 ![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/Front-End-August.gif)
 
+\
+
 ![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/desktop_view.png)
+
+\
 
 ![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/front_end_mobile.gif)
 
