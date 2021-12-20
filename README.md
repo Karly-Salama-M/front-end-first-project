@@ -23,11 +23,9 @@ Users should be able to:
 
 ![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/Front-End-August.gif)
 
-test
+![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/desktop_view.png)
 
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="mobile view screenshot"/>
-</p>
+![](https://github.com/Karly-Salama-M/front-end-first-project/blob/main/build/images/front_end_mobile.gif)
 
 
 ### Links
