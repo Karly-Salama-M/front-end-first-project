@@ -457,6 +457,11 @@ p.graph-text {
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.08);
     border-radius: 4px;
   }
+
+  img.graph-image {
+    width: 90%;
+  }
+
   p.graph-text {
     display: block;
     font-size: 15px;
@@ -468,5 +473,6 @@ p.graph-text {
     border-radius: 4px;
     padding: 18px 22px;
     margin-top: 0;
+
   }
 }
