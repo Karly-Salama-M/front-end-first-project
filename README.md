@@ -1,6 +1,6 @@
 # SAAS UI Project
 
-Building in html and css: desktop view and mobile view from design mockups
+Building in html and css: desktop and mobile view from design mockups
 
 ## Table of contents
 
